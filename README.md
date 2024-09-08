@@ -1,3 +1,4 @@
+   <img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
 # SoraUI
 
 SoraUI is a free and fast text editor. Very minimalist and clean. Only black background and violet text color
