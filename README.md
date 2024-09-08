@@ -10,9 +10,9 @@ It doesn't have much feautures, only save and open files. Not for people who nee
 
 If you need a minimal and low weight text editor, it's for you
 
-# Updates 📢
+# Updates & Support 📢
 
-Any updates will coming soon 
+Any updates will coming soon. If you need any support please contact davidcatree@gmail.com
 
 # Installation 🔧
 
