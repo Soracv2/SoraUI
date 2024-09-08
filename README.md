@@ -12,7 +12,7 @@ If you need a minimal and low weight text editor, it's for you
 
 # Updates & Support 📢
 
-Any updates will coming soon. If you need any support please contact davidcatree@gmail.com
+Any updates will coming soon. If you need any support please contact: davidcatree@gmail.com
 
 # Installation 🔧
 
