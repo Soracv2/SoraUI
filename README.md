@@ -1,4 +1,4 @@
-   <img src="[https://github.com/Soracv2/rfdasfda/blob/main/New%20Project.png]">
+   <img src="New Project.png">
 
 # SoraUI
 
