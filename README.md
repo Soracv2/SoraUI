@@ -4,8 +4,16 @@
 
 SoraUI is a free and fast text editor. Very minimalist and clean. Only black background and violet text color
 
+# Feautures and this is for who? ❤️
+
 It doesn't have much feautures, only save and open files. Not for people who need many feautures
 
 If you need a minimal and low weight text editor, it's for you
 
+# Updates 📢
+
 Any updates will coming soon 
+
+# Installation 🔧
+
+https://github.com/Soracv2/SoraUI/releases
